@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bhuvan Srinivas Kumbha – UGC Creator Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #ffffff;
+      padding: 3rem 2rem;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #666;
+    }
+
+    .section {
+      padding: 4rem 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .videos iframe {
+      width: 100%;
+      max-width: 400px;
+      height: 225px;
+      margin: 1rem;
+      border-radius: 10px;
+    }
+
+    .services, .why, .contact {
+      margin-top: 2rem;
+    }
+
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: #222;
+    }
+
+    .services ul, .why ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .services li, .why li {
+      margin: 0.5rem 0;
+    }
+
+    .contact a {
+      color: #0077ff;
+      text-decoration: none;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      background-color: #fff;
+      color: #999;
+    }
+
+    @media (min-width: 768px) {
+      .videos {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Bhuvan Srinivas Kumbha</h1>
+  <p>🎥 UGC Creator | Video Storyteller | Brand Partner</p>
+</header>
+
+<section class="section">
+  <h2>🎬 Featured Work</h2>
+  <div class="videos">
+    <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID1" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID2" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID3" frameborder="0" allowfullscreen></iframe>
+  </div>
+</section>
+
+<section class="section services">
+  <h2>✨ What I Offer</h2>
+  <ul>
+    <li>📦 Product Unboxings & Reviews</li>
+    <li>🎤 Voiceover Storytelling</li>
+    <li>🎯 Scriptwriting & CTA Hooks</li>
+    <li>📲 App Demos & Tutorials</li>
+    <li>🏡 Lifestyle Integration Content</li>
+  </ul>
+</section>
+
+<section class="section why">
+  <h2>🚀 Why Work With Me</h2>
+  <ul>
+    <li>✅ Fast 2–3 day delivery</li>
+    <li>✅ Trend-aware, audience-first content</li>
+    <li>✅ Clear audio + HD visuals</li>
+    <li>✅ Open communication + feedback loop</li>
+  </ul>
+</section>
+
+<section class="section contact">
+  <h2>📩 Let’s Collaborate</h2>
+  <p>Email me at: <a href="mailto:bhuvan.creates@gmail.com">bhuvan.creates@gmail.com</a></p>
+  <p>Instagram: <a href="https://instagram.com/YOUR_HANDLE" target="_blank">@your_handle</a></p>
+  <p>Location: India | Available Worldwide</p>
+</section>
+
+<footer>
+  © 2025 Bhuvan Srinivas Kumbha – UGC Creator Portfolio
+</footer>
+
+</body>
+</html>
